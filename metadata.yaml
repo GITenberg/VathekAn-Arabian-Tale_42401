@@ -1,0 +1,37 @@
+_repo: VathekAn-Arabian-Tale_42401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beckford, William
+    aliases:
+    - Marlow, Harriet, Lady
+    - Jenks, Jacquetta Agneta Mariana
+    - Beckford, John
+    birthdate: 1760
+    deathdate: 1844
+    gutenberg_agent_id: '806'
+    url: http://www.gutenberg.org/2009/agents/806
+    wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Beckford
+description: Cover; CONTENTS; INTRODUCTION; NOTE ON THE TEXT; SELECT BIBLIOGRAPHY;
+  A CHRONOLOGY OF WILLIAM BECKFORD; VATHEK; EXPLANATORY NOTES; APPENDIX I. Prefaces
+  to Vathek; APPENDIX II. Account of Vathek from d'Herbelot's Bibliothèque Orientale
+  (1697).
+gutenberg_issued: '2013-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Arab countries -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Middle East -- Fiction'
+title: Vathek; An Arabian Tale
+url: http://www.gutenberg.org/ebooks/42401
